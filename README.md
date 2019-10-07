@@ -18,3 +18,6 @@ This is a simplified version of the game of blackjack where there are three play
 - Stand
 
 After entering the names of all the players, we start the game. The other 2 players and the house play their hands automatically. However, when your turn comes in the end, you have to decide to either hit or stand.  If you decide to hit (by specifically writing hit), the card will be laid out for you. If you write anything else, the program assumes you are choosing to stand. If all the players bust, then the house automatically wins. If one player has a BlackJack, then house plays until it either has a blackjack or busts. If one of the players does not bust, and the house does not bust either, then the game is considered a tie (even though, technically, the player with the closest count to 21 wins).
+
+## Design Considerations
+
