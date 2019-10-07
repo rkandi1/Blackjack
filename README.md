@@ -1,4 +1,4 @@
 # Blackjack
 This is specifically for the Kleiner Perkins Fellowship Application
 
-To run the 
+This is 
