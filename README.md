@@ -5,3 +5,4 @@ This is specifically for the Kleiner Perkins Fellowship Application
 This is a simplified version of the game of blackjack with the only the following rules:
 - Hit
 - Stand
+
