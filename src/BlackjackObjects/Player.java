@@ -40,11 +40,6 @@ public class Player {
 	
 	public void stand() {
 		System.out.print(name + " chooses to stand \n");
-//		for (Card c: cardsDealt) {
-//			System.out.print(c.getRank() + " of " + c.getSuit() + ", ");
-//		}
-		
-//		System.out.println("\n");
 	}
 	
 	
